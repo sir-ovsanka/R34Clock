@@ -55,7 +55,7 @@ R34Clock::R34Clock(QWidget *parent) : QWidget(parent) {
     timer = new QTimer(this);
     timer->setInterval(10000);
     connect(timer, &QTimer::timeout, this, &R34Clock::updateTime);
-    timer->start(0);
+    timer->start(500);
 
     updateTime();
 }
