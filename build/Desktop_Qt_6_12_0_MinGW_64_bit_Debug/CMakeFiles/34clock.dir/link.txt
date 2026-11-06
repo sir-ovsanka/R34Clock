@@ -1,3 +1,0 @@
-C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\34clock.dir/objects.a
-C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\34clock.dir/objects.a @CMakeFiles\34clock.dir\objects1.rsp
-C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\34clock.dir/objects.a -Wl,--no-whole-archive -o 34clock.exe -Wl,--out-implib,lib34clock.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\34clock.dir\linkLibs.rsp
